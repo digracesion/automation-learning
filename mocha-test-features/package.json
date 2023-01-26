@@ -1,7 +1,7 @@
 {
-    "name": "MochaTestArithmetic",
+    "name": "Mocha Test Features",
     "version": "1.0.0",
-    "description": "running mocha tests on arithmetic functions",
+    "description": "running mocha tests for features",
     "main": "test.js",
     "scripts": {
       "test": "mocha"
