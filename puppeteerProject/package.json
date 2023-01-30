@@ -1,0 +1,17 @@
+{
+  "name": "puppeteerproject",
+  "version": "1.0.0",
+  "description": "puppeteer sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "grace",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.4.0"
+  }
+}
