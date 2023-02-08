@@ -1,0 +1,30 @@
+{
+  "name": "Chai Tests",
+  "version": "1.0.0",
+  "description": "running chai tests",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.7"
+  },
+  "scripts": {
+    "test": "chai"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "args": [
+    "-u",
+    "bdd",
+    "--timeout",
+    "999999",
+    "--colors",
+    "${workspaceFolder}/*.js"
+  ],
+  "author": "digracesion",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.3"
+  }
+}
