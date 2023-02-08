@@ -38,5 +38,5 @@ function writeToAFile(error){
     //should.Throw();
     //should.not.Throw();
 };
-writeToAFile(error,undefined);
-
+writeToAFile(undefined);
+//writeToAFile(1);
