@@ -1,0 +1,20 @@
+{
+  "name": "automation-learning",
+  "version": "1.0.0",
+  "description": "This is a practice repository for learning how to code tests by employing automation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digracesion/automation-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digracesion/automation-learning/issues"
+  },
+  "homepage": "https://github.com/digracesion/automation-learning#readme"
+}
