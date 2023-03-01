@@ -6,8 +6,11 @@
   "scripts": {
     "test": "jest"
   },
+  "jest":{
+    "testPathIgnorePatterns": ["/tests"]
+  },
   "keywords": [],
-  "author": "",
+  "author": "digracesion",
   "license": "ISC",
   "devDependencies": {
     "@applitools/eyes-playwright": "^1.14.0",
