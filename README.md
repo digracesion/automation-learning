@@ -27,22 +27,49 @@ This is a practice repository for learning how to code tests by employing automa
 # References
 
 ***Test Automation University Home Page***
+
 https://testautomationu.applitools.com/
+
+
 ***Node.js Documentation Page***
+
 https://nodejs.org/en/download/
+
 ***Mocha Documentation Page***
+
 https://www.npmjs.com/package/mocha
+
+
 ***Chai JS Documentation Page***
+
 https://chaijs.com
+
+
 ***Puppeteer Documentation Page***
+
 https://www.npmjs.com/package/puppeteer
+
+
 ***Applitools Documentation***
+
 https://applitools.com/docs/topics/overview.html
+
+
 ***Playwright Documentation Page***
+
 https://playwright.dev/
+
+
 ***Jest Documentation Page***
+
 https://jestjs.io/
+
+
 ***Webdriver IO Documentation Page***
+
 https://webdriver.io/docs/gettingstarted
+
+
 ***Cucumber with Javascript Documentation Page***
+
 https://cucumber.io/docs/installation/javascript/
