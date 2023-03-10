@@ -18,24 +18,18 @@
   "author": "digracesion",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2",
     "@babel/register": "^7.21.0",
-    "@cucumber/cucumber": "^9.0.0",
-    "@wdio/cli": "^8.5.8",
-    "@wdio/cucumber-framework": "^8.5.6",
-    "@wdio/local-runner": "^8.5.8",
-    "@wdio/selenium-standalone-service": "^8.5.6",
+    "@wdio/cli": "^8.5.1",
+    "@wdio/cucumber-framework": "^8.4.0",
+    "@wdio/local-runner": "^8.5.1",
+    "@wdio/selenium-standalone-service": "^8.5.1",
     "@wdio/spec-reporter": "^8.4.0",
     "chromedriver": "^110.0.0",
     "wdio-chromedriver-service": "^8.1.1"
   },
   "dependencies": {
     "babel-register": "^6.26.0",
-    "babel-upgrade": "^0.0.8",
-    "json5": "^2.2.3",
-    "node": "^19.6.1",
-    "npm": "^9.5.1",
-    "webdriver": "^8.5.7"
+    "npm": "^9.5.1"
   }
 }

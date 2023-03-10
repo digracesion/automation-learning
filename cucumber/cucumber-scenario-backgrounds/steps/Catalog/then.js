@@ -1,4 +1,4 @@
-import { Then } from '@cucumber/cucumber';
+import { Then } from '@wdio/cucumber-framework';
 import checkNoResultsError from '../../support/assertions/checkNoResults';
 import checkProducts from '../../support/assertions/checkProducts';
 import checkProductsContain from '../../support/assertions/checkProductsContain';

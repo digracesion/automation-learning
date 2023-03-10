@@ -1,4 +1,4 @@
-import SearchResultsPage, { searchResultsLinks } from "../../cucumber-google-search/pages/SearchResults";
+import SearchResultsPage, { searchResultsLinks } from "../../pages/SearchResults";
 
 export default(keyword) => {
     SearchResultsPage.searchResultsLinks.forEach(link=>{

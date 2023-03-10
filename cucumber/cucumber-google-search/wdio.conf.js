@@ -26,9 +26,7 @@ export const config = {
         './features/**/*.feature'
     ],
     // Patterns to exclude.
-    exclude: [
-        './features/login.feature'
-    ],
+    exclude: [],
     //
     // ============
     // Capabilities
