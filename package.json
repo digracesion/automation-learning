@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@wdio/cli": "^8.5.1",
-    "npm": "^9.5.1",
+    "npm": "^9.6.1",
     "webdriver": "^8.5.1"
   }
 }
