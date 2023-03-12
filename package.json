@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "wdio": "wdio run ./cucumber/cucumber-scenario-outlines/wdio.conf.js"
+    "wdio": "wdio run ./cucumber/cucumber-automated-tests/wdio.conf.js"
   },
   "repository": {
     "type": "git",
@@ -32,6 +32,7 @@
     "playwright": "^1.31.1"
   },
   "dependencies": {
+    "dotenv": "^16.0.3",
     "npm": "^9.6.1",
     "webdriver": "^8.5.7"
   }
