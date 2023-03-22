@@ -1,0 +1,25 @@
+{
+  "name": "cypress-axe",
+  "version": "1.0.0",
+  "description": "cypress axe project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digracesion/"
+  },
+  "keywords": [
+    "cypress",
+    "axe",
+    "cli"
+  ],
+  "author": "digracesion",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.30.0",
+    "cypress": "^12.8.1",
+    "cypress-axe": "^1.4.0"
+  }
+}
